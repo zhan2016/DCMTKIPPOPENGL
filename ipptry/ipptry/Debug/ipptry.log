@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/5/10 22:04:37。
+     1>项目“C:\Users\cs\Desktop\ippcode\ipptry\ipptry\ipptry.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _IPP_SEQUENTIAL_DYNAMIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt texture.cpp
+         texture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cs\Desktop\ippcode\ipptry\Debug\ipptry.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.3.207\windows\ipp\lib\intel64_win" /LIBPATH:"D:\源代码\DCMTK_3_6_0 Debug\DCMTK_3_6_0\lib" ippcc.lib ippccmt.lib ippch.lib ippchmt.lib ippcore.lib NetAPI32.Lib WSock32.Lib charls.lib dcmdata.lib dcmdsig.lib dcmimage.lib dcmimgle.lib dcmjpeg.lib dcmjpls.lib dcmnet.lib dcmpstat.lib dcmqrdb.lib dcmsr.lib dcmtls.lib dcmwlm.lib ijg8.lib ijg12.lib ijg16.lib libi2d.lib oflog.lib ofstd.lib ippcoremt.lib ippcv.lib ippcvmt.lib ippdc.lib ippi.lib ippimt.lib ipps.lib ippsmt.lib ippvm.lib ippvmmt.lib opengl32.lib glfw3.lib glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cs\Desktop\ippcode\ipptry\Debug\ipptry.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cs\Desktop\ippcode\ipptry\Debug\ipptry.lib" /MACHINE:X86 Debug\cwc.obj
+         Debug\DicomImageInfotj.obj
+         Debug\DrawManager.obj
+         Debug\ImageInfo.obj
+         Debug\testmain.obj
+         Debug\texture.obj
+         ipptry.vcxproj -> C:\Users\cs\Desktop\ippcode\ipptry\Debug\ipptry.exe
+     1>已完成生成项目“C:\Users\cs\Desktop\ippcode\ipptry\ipptry\ipptry.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.76

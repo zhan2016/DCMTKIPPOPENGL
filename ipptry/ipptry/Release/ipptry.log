@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/5/10 13:01:56。
+     1>项目“C:\Users\cs\Desktop\ippcode\ipptry\ipptry\ipptry.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cwc.cpp DicomImageInfotj.cpp DrawManager.cpp ImageInfo.cpp testmain.cpp texture.cpp
+         cwc.cpp
+     1>c:\users\cs\desktop\ippcode\ipptry\ipptry\cwc.h(6): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+         DicomImageInfotj.cpp
+     1>DicomImageInfotj.cpp(1): fatal error C1083: 无法打开包括文件: “dcmtk/config/osconfig.h”: No such file or directory
+         DrawManager.cpp
+     1>c:\users\cs\desktop\ippcode\ipptry\ipptry\cwc.h(6): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+         ImageInfo.cpp
+     1>c:\users\cs\desktop\ippcode\ipptry\ipptry\ImageInfo.h(3): fatal error C1083: 无法打开包括文件: “dcmtk/config/osconfig.h”: No such file or directory
+         testmain.cpp
+     1>testmain.cpp(3): fatal error C1083: 无法打开包括文件: “ipp.h ”: No such file or directory
+         texture.cpp
+     1>c:\users\cs\desktop\ippcode\ipptry\ipptry\texture.h(7): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+     1>已完成生成项目“C:\Users\cs\Desktop\ippcode\ipptry\ipptry\ipptry.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.22
